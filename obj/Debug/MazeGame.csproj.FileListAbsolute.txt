@@ -1,0 +1,9 @@
+C:\Users\lyanh\OneDrive\Documents\Code\MazeGame\MazeGame\bin\Debug\MazeGame.exe.config
+C:\Users\lyanh\OneDrive\Documents\Code\MazeGame\MazeGame\bin\Debug\MazeGame.exe
+C:\Users\lyanh\OneDrive\Documents\Code\MazeGame\MazeGame\bin\Debug\MazeGame.pdb
+C:\Users\lyanh\OneDrive\Documents\Code\MazeGame\MazeGame\bin\Debug\SwinAdventure.dll
+C:\Users\lyanh\OneDrive\Documents\Code\MazeGame\MazeGame\obj\Debug\MazeGame.csprojAssemblyReference.cache
+C:\Users\lyanh\OneDrive\Documents\Code\MazeGame\MazeGame\obj\Debug\MazeGame.csproj.CoreCompileInputs.cache
+C:\Users\lyanh\OneDrive\Documents\Code\MazeGame\MazeGame\obj\Debug\MazeGame.csproj.CopyComplete
+C:\Users\lyanh\OneDrive\Documents\Code\MazeGame\MazeGame\obj\Debug\MazeGame.exe
+C:\Users\lyanh\OneDrive\Documents\Code\MazeGame\MazeGame\obj\Debug\MazeGame.pdb
